@@ -63,7 +63,7 @@ jqueryWidget: {
                 t.element.append(
                     $(document.createElement("p"))
                     .css('clear', 'left')
-                    .append($(document.createElement("a"))
+                        .append($(document.createElement("a"))
                             .attr('href', '')
                             .addClass(t.cssPrefix + 'continue-link')
                             .text("\u2192 " + t.continueMessage)
