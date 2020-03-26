@@ -1,0 +1,59 @@
+#
+# Results on Thursday March 26 2020 12:50:37 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,13,0,picture,NULL,PennController,13,_Trial_,Start,1585227026490,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,13,0,picture,NULL,PennController,13,_Trial_,End,1585227029186,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,14,0,picture,NULL,PennController,14,_Trial_,Start,1585227029193,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,14,0,picture,NULL,PennController,14,_Trial_,End,1585227029778,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,5,0,picture,NULL,PennController,5,_Trial_,Start,1585227029781,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,5,0,picture,NULL,Selector,patch,Selection,color1,1585227030477,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,5,0,picture,NULL,PennController,5,_Trial_,End,1585227030479,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,7,0,picture,NULL,PennController,7,_Trial_,Start,1585227030481,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,7,0,picture,NULL,Selector,patch,Selection,color1,1585227030895,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,7,0,picture,NULL,PennController,7,_Trial_,End,1585227030897,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,12,0,picture,NULL,PennController,12,_Trial_,Start,1585227030900,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,12,0,picture,NULL,PennController,12,_Trial_,End,1585227031317,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,6,0,picture,NULL,PennController,6,_Trial_,Start,1585227031319,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,6,0,picture,NULL,Selector,patch,Selection,color1,1585227031701,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,6,0,picture,NULL,PennController,6,_Trial_,End,1585227031702,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,15,0,picture,NULL,PennController,15,_Trial_,Start,1585227031704,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,15,0,picture,NULL,PennController,15,_Trial_,End,1585227032122,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,4,0,picture,NULL,PennController,4,_Trial_,Start,1585227032125,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,4,0,picture,NULL,Selector,patch,Selection,color1,1585227032750,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,4,0,picture,NULL,PennController,4,_Trial_,End,1585227032752,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,0,0,rating,NULL,PennController,0,_Trial_,Start,1585227032754,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,0,0,rating,NULL,Scale,judgment,Choice,cold,1585227033941,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,0,0,rating,NULL,PennController,0,_Trial_,End,1585227033942,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,11,0,rating,NULL,PennController,11,_Trial_,Start,1585227033944,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,11,0,rating,NULL,PennController,11,_Trial_,End,1585227034327,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,10,0,rating,NULL,PennController,10,_Trial_,Start,1585227034328,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,10,0,rating,NULL,PennController,10,_Trial_,End,1585227034536,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,8,0,rating,NULL,PennController,8,_Trial_,Start,1585227034539,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,8,0,rating,NULL,PennController,8,_Trial_,End,1585227034746,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,9,0,rating,NULL,PennController,9,_Trial_,Start,1585227034750,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,9,0,rating,NULL,PennController,9,_Trial_,End,1585227035060,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,3,0,rating,NULL,PennController,3,_Trial_,Start,1585227035063,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,3,0,rating,NULL,Scale,judgment,Choice,cold,1585227035479,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,3,0,rating,NULL,PennController,3,_Trial_,End,1585227035480,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,2,0,rating,NULL,PennController,2,_Trial_,Start,1585227035482,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,2,0,rating,NULL,Scale,judgment,Choice,cold,1585227035969,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,2,0,rating,NULL,PennController,2,_Trial_,End,1585227035970,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,1,0,rating,NULL,PennController,1,_Trial_,Start,1585227035972,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,1,0,rating,NULL,Scale,judgment,Choice,cold,1585227036389,NULL
+1585227037,296a0c5b659e0d1bbf7e7765a18b8aea,PennController,1,0,rating,NULL,PennController,1,_Trial_,End,1585227036390,NULL
